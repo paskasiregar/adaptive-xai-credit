@@ -1,7 +1,6 @@
 # adaptive-xai-credit
 
 **The Message That Didn't Land: Adaptive XAI for Indonesian Digital Finance Users**
-Debora Paskarina Sormin | 23210412 | MSc HCI | UCD | Supervised by Dr. Courtney Ford
 
 ---
 
