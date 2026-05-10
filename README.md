@@ -29,12 +29,14 @@ The pipeline is a means to an end -- the contribution is the adaptive explanatio
 3. Dataset downloads automatically via kagglehub (Kaggle account required)
 
 ## Repo structure
+```
 adaptive-xai-credit/
 ├── notebooks/        ← Colab notebook
 ├── docs/             ← pipeline guide, navigation reference, thesis notes
 ├── data/             ← empty; see data/README.md for download instructions
 ├── templates/        ← literacy-adaptive explanation templates (Step 8)
 └── README.md
+```
 
 ## Status
 
