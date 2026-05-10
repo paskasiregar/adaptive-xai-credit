@@ -13,14 +13,14 @@ The pipeline is a means to an end -- the contribution is the adaptive explanatio
 ---
 
 ## Pipeline overview
-Step 1: Get the data (Home Credit Default Risk, Kaggle)
-Step 2: Inspect + clean
-Step 3: Split (80/20, stratified)
-Step 4: Configure XGBoost
-Step 5: Train
-Step 6: Evaluate (ROC-AUC)
-Step 7: Apply TreeSHAP
-Step 8: Build literacy-adaptive explanation templates
+* Step 1: Get the data (Home Credit Default Risk, Kaggle)
+* Step 2: Inspect + clean
+* Step 3: Split (80/20, stratified)
+* Step 4: Configure XGBoost
+* Step 5: Train
+* Step 6: Evaluate (ROC-AUC)
+* Step 7: Apply TreeSHAP
+* Step 8: Build literacy-adaptive explanation templates
 
 ## How to run
 
