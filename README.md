@@ -37,14 +37,3 @@ adaptive-xai-credit/
 ├── templates/        ← literacy-adaptive explanation templates (Step 8)
 └── README.md
 ```
-
-## Status
-
-- [x] Step 1: Data
-- [x] Step 2: Clean
-- [x] Step 3: Split
-- [x] Step 4: Configure
-- [x] Step 5: Train
-- [x] Step 6: Evaluate (ROC-AUC: 0.7515)
-- [ ] Step 7: TreeSHAP
-- [ ] Step 8: Explanation templates
